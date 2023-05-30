@@ -10,7 +10,7 @@ function processArray($arr) {
     //TODO add logic here to echo out only odd values
     for($i = 0; $i < sizeof($arr); $i++) {
         if($arr[$i] % 2 == 1) {
-            echo "<br>" . "Odd Number = " . $arr[$i];
+            echo "<br>" . $arr[$i];
         }
     }
 
