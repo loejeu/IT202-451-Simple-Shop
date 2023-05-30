@@ -10,10 +10,13 @@ function processArray($arr) {
     //TODO add logic here to echo out only odd values
     for($i = 0; $i < sizeof($arr); $i++) {
         if($arr[$i] % 2 == 1) {
-            echo "<br>" . $arr[$i];
+            echo $arr[$i] . ", ";
         }
     }
-
+    /*
+    jl2334
+    05/30/2023
+    */
 }
 echo "Problem 1: Odd Output<br>";
 ?>
