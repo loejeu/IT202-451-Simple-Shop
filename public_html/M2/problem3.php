@@ -13,11 +13,11 @@ function bePositive($arr) {
         if($num < 0) {
             $pos = abs($num);
             echo "\n$pos ";
-            var_dump($pos);
+            echo var_dump($pos) . ", ";
         }
         else {
             echo "\n$num ";
-            var_dump($num);
+            echo var_dump($num) . ", ";
         }
         
     }
