@@ -13,14 +13,60 @@
             setTimeout(() => {
                 //added this delay here as some solutions may require it to update properly (i.e., click code may complete before the navigation changes)
                 //TODO: add code for processing the current selection 
-
+                
                 //Note: likely you'll want to call updateCurrentPage towards the end
             }, 100);
         }
     </script>
     <style>
         /* TODO: make edits here */
+        ul {
+            list-style-type: '\2713';
+        }
+
+        a {
+            text-transform: capitalize;
+        }
+
+        h1 {
+            text-transform: capitalize;
+        }
+
+        ul.my-style {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            border: 1px solid black;
+            background-color: darkseagreen;
+        }
+
+        li.my-style {
+            float: left;
+            border-right: 1px solid black;
+        }
+        
+        li a.my-style {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: lightgreen;
+        }
+        
     </style>
+    <body>
+        <ul class="my-style">
+            <li class="my-style"><a href="#login" class="my-style">Login</a></li>
+            <li class="my-style"><a href="#register" class="my-style">Register</a></li>
+            <li class="my-style"><a href="#profile" class="my-style">Profile</a></li>
+            <li class="my-style"><a href="#logout" class="my-style">Logout</a></li>
+        </ul>
+    </body>
     <!-- make the necessary edits above this line -->
 
 
