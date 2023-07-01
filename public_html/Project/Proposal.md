@@ -1,5 +1,5 @@
-## Project Name: (Which Project)
-### Project Summary: (Copy from proposal)
+## Project Name: Simple Shop
+### Project Summary: This project will create a simple e-commerce site  for users. Administrators or store owners will be able to manage inventory and users will be able to manage their cart and place orders.
 ### Github Link: [https://github.com/loejeu/IT202-451/tree/prod/public_html/Project](https://github.com/loejeu/IT202-451/tree/prod/public_html/Project)
 ### Project Board Link: 
 ### Website Link: [https://jl2334-prod.herokuapp.com/Project](https://jl2334-prod.herokuapp.com/Project)
