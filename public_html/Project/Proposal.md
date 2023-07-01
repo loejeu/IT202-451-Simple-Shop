@@ -1,7 +1,7 @@
 ## Project Name: Simple Shop
 ### Project Summary: This project will create a simple e-commerce site  for users. Administrators or store owners will be able to manage inventory and users will be able to manage their cart and place orders.
 ### Github Link: [https://github.com/loejeu/IT202-451/tree/prod/public_html/Project](https://github.com/loejeu/IT202-451/tree/prod/public_html/Project)
-### Project Board Link: 
+### Project Board Link: [https://github.com/users/loejeu/projects/4](https://github.com/users/loejeu/projects/4)
 ### Website Link: [https://jl2334-prod.herokuapp.com/Project](https://jl2334-prod.herokuapp.com/Project)
 ### API Link: (the link to the documentation of your chosen API)
 ### Your Name: Joseph Leung
