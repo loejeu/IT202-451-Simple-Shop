@@ -11,7 +11,7 @@
 ### Proposal Checklist and Evidence
 
 - Milestone 1
-  - https://github.com/loejeu/IT202-451/blob/Milestone1/public_html/Project/milestone1.md  
+  - https://github.com/loejeu/IT202-451/blob/Milestone1/public_html/Project/milestone1.md
 - Milestone 2
   - (add link to milestone2.md from milestone2 branch)
 - Milestone 3
