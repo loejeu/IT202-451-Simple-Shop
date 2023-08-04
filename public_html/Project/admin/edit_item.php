@@ -2,6 +2,8 @@
 //note we need to go up 1 more directory
 require(__DIR__ . "/../../../partials/nav.php");
 require(__DIR__ . "/../../../lib/get_columns.php");
+require(__DIR__ . "/../../../lib/save_data.php");
+require(__DIR__ . "/../../../lib/input_map.php");
 require(__DIR__ . "/../../../lib/update_data.php");
 
 $TABLE_NAME = "Products";

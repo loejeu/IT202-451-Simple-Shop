@@ -65,7 +65,6 @@ session_start();
                         <ul class="dropdown-menu bg-warning" aria-labelledby="rolesDropdown">
                             <li><a class="dropdown-item" href="<?php echo get_url('admin/add_item.php'); ?>">Add Item</a></li>
                             <li><a class="dropdown-item" href="<?php echo get_url('admin/list_items.php'); ?>">List Items</a></li>
-                            <li><a class="dropdown-item" href="<?php echo get_url('admin/edit_item.php'); ?>">Edit Item</a></li>
                         </ul>
                     </li>
                 <?php endif; ?>
